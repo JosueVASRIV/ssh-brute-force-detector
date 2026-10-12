@@ -1,0 +1,12 @@
+# ignora este archivo específico
+reporte.txt
+
+# ignora el archivo siguente que se genera automaticamente
+detector.log
+
+# ignora esta carpeta completa
+__pycache__/
+
+#estas carpetas tambien, son carpetas de entorno y caché del programa ruff
+.entorno/
+.ruff_cache/

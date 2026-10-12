@@ -1,0 +1,25 @@
+Jan 10 03:14:22 server sshd[1234]: Failed password for root from 192.168.1.50 port 51234 ssh2
+Jan 10 03:14:25 server sshd[1234]: Failed password for root from 192.168.1.50 port 51235 ssh2
+Jan 10 03:14:28 server sshd[1235]: Failed password for root from 192.168.1.50 port 51236 ssh2
+Jan 10 03:14:31 server sshd[1236]: Failed password for admin from 192.168.1.50 port 51237 ssh2
+Jan 10 03:14:35 server sshd[1237]: Failed password for admin from 192.168.1.50 port 51238 ssh2
+Jan 10 03:15:02 server sshd[1240]: Accepted password for josue from 10.0.0.5 port 52310 ssh2
+Jan 10 03:16:10 server sshd[1250]: Failed password for invalid user test from 45.33.22.11 port 40021 ssh2
+Jan 10 03:16:14 server sshd[1251]: Failed password for invalid user test from 45.33.22.11 port 40022 ssh2
+Jan 10 03:16:19 server sshd[1252]: Failed password for invalid user test from 45.33.22.11 port 40023 ssh2
+Jan 10 03:16:23 server sshd[1253]: Failed password for invalid user test from 45.33.22.11 port 40024 ssh2
+Jan 10 03:16:27 server sshd[1254]: Failed password for invalid user test from 45.33.22.11 port 40025 ssh2
+
+Jan 10 03:17:40 server sshd[1260]: Failed password for root from 200.10.5.3 port 33012 ssh2
+Jan 10 03:18:02 server sshd[1265]: Accepted password for deploy from 10.0.0.8 port 52400 ssh2
+esta linea esta rota y no sigue el formato esperado
+Jan 10 03:19:15 server sshd[1270]: Failed password for admin from 200.10.5.3 port 33020 ssh2
+Jan 10 03:19:19 server sshd[1271]: Failed password for admin from 200.10.5.3 port 33021 ssh2
+Jan 10 03:19:23 server sshd[1272]: Failed password for root from 200.10.5.3 port 33022 ssh2
+Jan 10 03:20:01 server vsftpd[3301]: Failed password for anonymous from 88.99.12.7 port 21
+Jan 10 03:20:04 server vsftpd[3302]: Failed password for anonymous from 88.99.12.7 port 21
+Jan 10 03:20:08 server vsftpd[3303]: Failed password for anonymous from 88.99.12.7 port 21
+Jan 10 03:20:12 server vsftpd[3304]: Failed password for anonymous from 88.99.12.7 port 21
+Jan 10 03:21:00 server nginx: 401 Unauthorized login attempt from 77.55.33.9 for /admin
+Jan 10 03:21:05 server nginx: 401 Unauthorized login attempt from 77.55.33.9 for /admin
+Jan 10 03:22:10 server CRON[4001]: (root) CMD (run-parts /etc/cron.hourly)
